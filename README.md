@@ -75,10 +75,6 @@ Three analytical layers, each answering a different piece of the central questio
 **Invest in filling the calendar and adding amenities before cosmetic upgrades.** Occupancy is driven far more by unsold-night availability and amenity richness than by anything else measured. On the guest-experience side, **cleanliness and maintenance should be the top operational priority** — it's guests' single strongest source of complaint, and addressing it protects the satisfaction drivers (listing capacity fit and Superhost status) the model identified as most important.
 
 ## Repo contents
-
-| File | Description |
-|---|---|
-| `Hollywood_Airbnb_Presentation.pptx` | Full presentation: problem framing, PCA/clustering, supervised learning, text mining, recommendations |
 | `images/` | JMP output screenshots referenced in this README (PCA, regression, model comparison, text mining) |
 
 Raw data and the JMP project file aren't included — the detailed listings data includes host and reviewer names, which aren't appropriate to redistribute in bulk even though the source is public. Download the current LA dataset directly from [Inside Airbnb](http://insideairbnb.com/get-the-data/) to reproduce.
