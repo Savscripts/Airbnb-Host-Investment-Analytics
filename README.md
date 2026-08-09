@@ -2,7 +2,7 @@
 
 Consulting-style analysis for Airbnb hosts in Hollywood, LA, answering: with a limited budget, should a host invest in **property upgrades** or **guest-management improvements** first?
 
-Marketing Analytics (OMBA 5355, Seattle University), co-authored with Jessica Loaiza.
+Marketing Analytics
 
 ## The problem
 
@@ -91,4 +91,4 @@ Text mining (word count, sentiment analysis, topic modeling) was also done using
 
 ## Author
 
-Savgun Kaur ([savscripts](https://github.com/savscripts)) — co-authored with Jessica Loaiza
+Savgun Kaur ([savscripts](https://github.com/savscripts)) 
